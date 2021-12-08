@@ -14,8 +14,13 @@ button {
     font-size: 24px;
 }
 
+a {
+    text-decoration: none;
+}
+
 .header {
     display: flex;
+    flex-wrap: wrap;
     justify-content: space-around;
     align-content: flex-start;
     color: #E5E7EB;
@@ -26,13 +31,34 @@ button {
 .htop {
     display:flex;
     border: solid 3px blue;
+    max-height: 100px;
+    justify-content: space-around;
+    width: 100%;
+    align-items: center;
+}
 
+.hbody {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: ;
+    margin-top: 48px;
+    width: 40%;
+    border: solid 3px purple;
 }
 
 #mtxt {
     color: #F9FAF8;
     font-size: 48px;
     font-weight: 800;
+    
+}
+
+.links {
+    direction: flex;
+    justify-items: stretch;
+    border: solid 3px white;
+    width: 30%;
+    
 }
 
 #itxt {
@@ -47,4 +73,10 @@ button {
     font-size: 36px;
     color: #1F2937;
     font-style: "light italic";
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
