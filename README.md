@@ -1,1 +1,5 @@
 # landing-page
+
+This project was primarily a test of my skills in positioning elements on a webpage. I began by just creating all the html for the page with placeholders to have the structure of the page assembled. I then applied as much of the background, fonts, and colors as I could to have a base to start with in my stylesheet. Going top to bottom utilizing flexbox as much as I could I got everything sized and aligned as best as I could. I did notice as I used flexbox more and more the project became easier and easier and at the end I was left with a good foundation of utilizing flexbox to align my html and CSS to keep it pretty.
+
+I would definately say this was a big learning experience with much more to understand in order to build webpages with more efficent code and not ending up using several containers with containers to make the adjustments I wanted and playing with widths and margin/padding. As I said this project gave me a strong foundation in utilizing CSS and Flexbox that I will build upon with more projects and messing around to hone my skills to have a stronger front end skill set.
